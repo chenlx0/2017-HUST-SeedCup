@@ -1,0 +1,4 @@
+__pycache__/*
+*.pyc
+predictPro.csv
+.idea/*
